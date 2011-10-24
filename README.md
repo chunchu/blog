@@ -1,7 +1,7 @@
-flyerhzm.github.com
+Chu's Blog
 ===================
 
-my blog <http://www.huangzhimin.com>
+Chu's Blog <http://github.chunchu.org/>
 
 Usage
 -----
